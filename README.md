@@ -1,4 +1,4 @@
-
+# How to write software functional and technical specifications
 
 This document is intended to be as the template and manual for an ongoing and ever changing process to solve problems for any project, everyone can participate and collaborate to expose examples, special cases and discuss.
 
