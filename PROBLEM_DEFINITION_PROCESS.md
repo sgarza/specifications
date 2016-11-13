@@ -13,7 +13,7 @@ The problem is the issue, the possibilities and the hope, not the pain of change
 The problem is the description of input and the expected output, not the algorithm.
 
 
-### Establish the Need
+### 1) Establish the Need
 The first step is to identify why you need a solution to the problem. To do this, answer these questions:
 
   * **What is the basic need?** First, write your problem down in simple terms. Then, identify the basic need that you'll fulfil once you've solved the problem.
@@ -33,7 +33,7 @@ The first step is to identify why you need a solution to the problem. To do this
   * **Who will (and won't) benefit?** Finally in this step, identify who will benefit, both directly and indirectly, once you've solved the problem and reached your desired outcome. Write down who these people or groups are, and the advantages that they'll see. Also consider who may be at a disadvantage if you solve the problem.
 
 
-### Justify the need
+### 2) Justify the need
 
 > **Tip**: As you work through the next steps of this process and get more of an understanding of your problem, you may find it useful to go back and refine your answers to previous questions.
 
@@ -44,7 +44,7 @@ Once you understand the need for solving the problem, you must then justify why 
 * **Are we likely to be able to implement a solution?** Think about factors such as how you'll get support from the project's decision-makers, and how you'll access the required resources and expertise. This may involve speaking with senior managers in your organization to understand what resources may be available.
 
 
-### Understand the Problem and its Wider Context
+### 3) Understand the Problem and its Wider Context
 
 The next questions in this third step encourage you to look at the problem in more depth, and to look back into the past to see what you can learn from past efforts.
 
@@ -65,7 +65,7 @@ The next questions in this third step encourage you to look at the problem in mo
 * **How will we define success?** Identify how you'll define success once you've implemented a solution.
 
 
-### Write a Problem Statement
+### 4) Write a Problem Statement
 
 The final step of **The Problem-Definition Process** is to pull together all of the information that you've gathered into a clear, comprehensive problem statement. This should provide a thorough overview of the problem, and outline a plan for how you will go about solving it.
 
